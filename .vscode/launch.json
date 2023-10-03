@@ -9,6 +9,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
+            "projectName": "Advanced IT Security_ec002760"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
             "projectName": "Advanced IT Security_814393ae"
         },
         {
@@ -17,13 +24,5 @@
             "request": "launch",
             "mainClass": "${file}"
         },
-        {
-            "type": "java",
-            "name": "HelloFX",
-            "request": "launch",
-            "mainClass": "HelloFX",
-            "projectName": "Advanced IT Security_814393ae",
-            "vmArgs": "--module-path \"D:\\JavaFX\\javafx-sdk-21\\lib\" --add-modules javafx.controls,javafx.fxml"
-        }
     ]
 }
